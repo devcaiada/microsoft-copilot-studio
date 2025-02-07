@@ -1,6 +1,6 @@
-# README - Criação de um Copiloto com Microsoft Copilot Studio para Financial Insights
+# Criação de um Copiloto com Microsoft Copilot Studio para Financial Insights
 
-![logo]()
+![logo](https://github.com/devcaiada/microsoft-copilot-studio/blob/main/assets/microsoft-Copilot-Studio-Logo.jpg?raw=true)
 
 Este guia fornece um passo a passo detalhado para a criação de um copiloto utilizando o Microsoft Copilot Studio, com foco em um modelo de **Financial Insights** para uma gestora de recursos. O copiloto será projetado para auxiliar na análise de dados financeiros, geração de insights e suporte à tomada de decisões.
 
@@ -24,7 +24,7 @@ Antes de começar, certifique-se de que você possui:
    - Crie um novo projeto e selecione o modelo **"Financial Insights"** como base.
    - Nomeie o projeto, por exemplo, **"Copiloto Financeiro - Gestora de Recursos"**.
 
-   ![Criação do Projeto](https://example.com/copilot-studio-new-project.png)
+   ![Criação do Projeto](https://github.com/devcaiada/microsoft-copilot-studio/blob/main/assets/criar%20copilot.png?raw=true)
 
 ---
 
@@ -36,6 +36,7 @@ Antes de começar, certifique-se de que você possui:
      - Respostas a perguntas comuns sobre métricas financeiras.
    - Adicione uma descrição clara do propósito do copiloto.
 
+![scope](https://github.com/devcaiada/microsoft-copilot-studio/blob/main/assets/project%20creation.png?raw=true)
 ---
 
 ### 3. **Integração com Fontes de Dados**
@@ -46,7 +47,7 @@ Antes de começar, certifique-se de que você possui:
         - APIs de sistemas de gestão financeira.
      2. Configure as permissões de acesso necessárias.
 
-   ![Integração de Dados](https://example.com/copilot-data-integration.png)  
+   ![Integração de Dados](https://github.com/devcaiada/microsoft-copilot-studio/blob/main/assets/data%20integration.png?raw=true)  
 
 ---
 
@@ -92,6 +93,8 @@ Antes de começar, certifique-se de que você possui:
         - Widget para o site da gestora.
         - Acesso via API para sistemas internos.
      2. Configure permissões de acesso para usuários finais.
+
+![export](https://github.com/devcaiada/microsoft-copilot-studio/blob/main/assets/export%20solution.png?raw=true)
 
 
 ---
